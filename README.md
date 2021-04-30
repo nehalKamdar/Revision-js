@@ -4,9 +4,11 @@ Numbers and Strings
 JavaScript can understand different kinds of data like numbers and string. Try entering a number in the console:
 
 > 2
+> 
 Similarly, try entering any string in the console:
 
 > "Hello world"
+> 
 Remember, strings are enclosed by quotes
 
 Variables
@@ -15,9 +17,11 @@ You can store data inside containers (variables) using "var"
 Can you store your name inside a variable?
 
 > var name = "Rajeev"
+> 
 Now call the variable to see what is inside it.
 
 > name
+> 
 You can see your name printed in the console.
 
 Strings are objects in JavaScript and they have some properties and functions defined. You can try some of them.
